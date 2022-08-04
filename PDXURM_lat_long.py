@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import googlemaps
-gmaps = googlemaps.Client(key='AIzaSyBfoCaS4ZQZDiblQJ_Uf0JDaBRmUCMQ2RQ')
+gmaps = googlemaps.Client(key='API_KEY_GOES HERE')
 from datetime import datetime
 import time
 
